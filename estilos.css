@@ -1,0 +1,30 @@
+p{
+	color: white;
+	text-align: justify;
+	background-color: darkred;
+	padding: 15px;
+	padding-left: 20px;
+	border: 5px dotted royalblue;
+}
+
+h1{
+	color: black !important;
+	font-family: "verdana","helvetica";
+	font-size: 50px;
+	text-align: center;
+}
+
+#parrafo{
+	border: 10px solid blue;
+	border-radius: 20px;
+	word-spacing: 15px;
+}
+
+.parrafos{
+	font-weight: bold;
+}
+
+#hipervinculo a{
+	color: white;
+	text-decoration: none;
+}
